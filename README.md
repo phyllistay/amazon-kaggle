@@ -7,6 +7,7 @@ Taking a similar concept to Recency-Frequency-Monetary (RFM) scoring, I did comp
 Score is averaged and scaled with a max of 5
 
 Dataset: https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019
+Kaggle Script: https://www.kaggle.com/code/phyllistay/top-10-amazon-books-recommendation-scoring-in-r
 
 I created a Tableau dashboard to visualise the findings: https://public.tableau.com/app/profile/phyllis.tay/viz/TopAmazonBooks/Top10Picks
 
